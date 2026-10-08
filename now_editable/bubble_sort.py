@@ -9,3 +9,10 @@
 - Время: O(n²)
 - Память: O(1)
 """
+
+def name():
+    pass
+
+if __name__ == "__main__":
+    n = int(input())
+    print(name(n))
